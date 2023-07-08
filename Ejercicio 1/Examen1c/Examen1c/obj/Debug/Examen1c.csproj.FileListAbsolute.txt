@@ -1,0 +1,16 @@
+C:\Users\erick\source\repos\Examen1c\Examen1c\bin\Debug\Examen1c.exe.config
+C:\Users\erick\source\repos\Examen1c\Examen1c\bin\Debug\Examen1c.exe
+C:\Users\erick\source\repos\Examen1c\Examen1c\bin\Debug\Examen1c.pdb
+C:\Users\erick\source\repos\Examen1c\Examen1c\obj\Debug\Examen1c.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Examen1c\Examen1c\obj\Debug\Examen1c.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\source\repos\Examen1c\Examen1c\obj\Debug\Examen1c.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Examen1c\Examen1c\obj\Debug\Examen1c.exe
+C:\Users\erick\source\repos\Examen1c\Examen1c\obj\Debug\Examen1c.pdb
+C:\Users\erick\OneDrive\Documentos\EXAMEN1 Progra 2\Ejercicio 1\Examen1c\Examen1c\bin\Debug\Examen1c.exe.config
+C:\Users\erick\OneDrive\Documentos\EXAMEN1 Progra 2\Ejercicio 1\Examen1c\Examen1c\bin\Debug\Examen1c.exe
+C:\Users\erick\OneDrive\Documentos\EXAMEN1 Progra 2\Ejercicio 1\Examen1c\Examen1c\bin\Debug\Examen1c.pdb
+C:\Users\erick\OneDrive\Documentos\EXAMEN1 Progra 2\Ejercicio 1\Examen1c\Examen1c\obj\Debug\Examen1c.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\EXAMEN1 Progra 2\Ejercicio 1\Examen1c\Examen1c\obj\Debug\Examen1c.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\OneDrive\Documentos\EXAMEN1 Progra 2\Ejercicio 1\Examen1c\Examen1c\obj\Debug\Examen1c.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\EXAMEN1 Progra 2\Ejercicio 1\Examen1c\Examen1c\obj\Debug\Examen1c.exe
+C:\Users\erick\OneDrive\Documentos\EXAMEN1 Progra 2\Ejercicio 1\Examen1c\Examen1c\obj\Debug\Examen1c.pdb
